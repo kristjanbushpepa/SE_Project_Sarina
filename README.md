@@ -11,6 +11,13 @@
 1. Ergita Hoxha - GitHub: ergitahoxha -  Email: ehoxha22@epoka.edu.al
 2. Armand Cera - GitHub: armandcera - Email: acera22@epoka.edu.al
 3. Helga Mali - GitHub: helgamali - Email: hmali22@epoka.edu.al
+=======
+
+### Team Members:
+1. Ergita Hoxha - GitHub: ergitahoxha
+2. Armand Cera - GitHub: armandcera
+3. Helga Mali - GitHub: helgamali
+
 
 ---
 
@@ -71,15 +78,14 @@ The system will be developed using the following technologies:
 2. **Armand Cera** - Backend Development, Database Management.
 3. **Helga Mali** - Full Stack Development (Frontend & Backend),, Database Management, Testing, Documentation, and System Security, ensuring compliance with **education and data privacy standards**.
 
-
-
 ## Additional Notes
 - The system will follow **agile development methodologies** for iterative improvements.
 - **Security measures** such as **data encryption and access control** will be implemented to ensure student privacy.
 
----
 # Deadline
 Submission Deadline: 15.03.2025, 23:59 hours.
 
 ## GitHub Repository
 https://github.com/kristjanbushpepa/SE_Project_Sarina
+
+
