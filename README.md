@@ -1,31 +1,82 @@
-# Sarina Highschool Interactive System
+## Team Information
 
-Sarina: Interactive System for High School Students
-Sarina is an interactive and intuitive platform designed to help high school students manage their academic journey. The system integrates key features for academic performance tracking, communication with professors, and various other tools to foster a more efficient, transparent, and supportive learning experience.
+### Team Name: Sarina Highschool Interactive System
 
-With Sarina, students can access grades, communicate with teachers, stay updated on school events, and manage homework assignments—all in one place. The system aims to bridge the gap between students and teachers by providing a user-friendly interface that encourages active participation and keeps students on top of their academic responsibilities.
+### Team Leader:
+- **Name:** Kristjan Bushpepa
+- **GitHub Username:** kristjanbushpepa
 
-Key Features
-1. Grade Tracking
-Real-time access to grades and academic performance.
-Visualizations of progress through graphs and progress bars.
-Ability to view individual assignment grades and overall subject scores.
-2. Communication with Professors
-Messaging system to directly communicate with teachers for clarifications or queries.
-Notification system for updates from professors regarding assignments, tests, or school events.
-A discussion forum where students can interact with professors and peers for academic collaboration.
-3. Homework and Assignment Management
-Calendar view to track upcoming homework and assignments.
-To-do lists and reminder notifications to help students stay on schedule.
-Ability to upload assignments and track submission deadlines.
-4. Class Schedules & Event Calendar
-A digital calendar to organize class schedules and track important school events.
-Notifications for upcoming exams, school activities, and special announcements.
-5. Personalized Dashboard
-Customizable dashboard where students can view grades, upcoming tasks, and messages at a glance.
-Integration with school events and extracurricular activities to stay informed.
-6. Teacher Feedback and Class Resources
-Access to feedback from teachers on performance and suggestions for improvement.
-View class materials such as syllabi, lesson plans, and additional learning resources.
-7. Attendance Tracking
-Monitor attendance with a clear view of missed classes and the ability to request make-up work.
+### Team Members:
+1. Ergita Hoxha - GitHub: ergitahoxha
+2. Armand Cera - GitHub: armandcera
+3. Helga Mali - GitHub: helgamali
+
+---
+
+## Project Details
+
+### Project Title: Sarina Highschool Interactive System
+
+### Problem Statement:
+Sarina Highschool in Tirana, Albania, faces challenges in communication between parents, students, and school staff. Parents struggle to monitor their children's academic performance, students lack a structured way to access schedules and assignments, and teachers require a more efficient method for organizing parent meetings and school announcements. The absence of a centralized, digital platform leads to miscommunication, missed deadlines, and inefficiencies in school management.
+
+### Solution Proposed:
+The Sarina Highschool Interactive System will be a **comprehensive school management web platform** that enables **real-time communication and data sharing** between students, parents, and school staff. The system will include:
+- **Real-time grade tracking:** Parents and students can monitor academic progress with progress graphs and breakdowns.
+- **Timetables and class schedules:** Students can view class schedules, exams, and school activities.
+- **School announcements and event notifications:** Ensuring that parents and students stay informed about school events, holidays, and policy changes.
+- **Direct communication system:** A secure messaging feature for students, teachers, and parents to interact efficiently.
+- **Parent-teacher meeting scheduling:** Allowing parents to book meetings with teachers through the system.
+- **Homework and assignments tracking:** Students can access, submit assignments digitally, and receive feedback from teachers.
+- **Extracurricular activity management:** Students and parents can enroll in school clubs and activities.
+- **Personalized student dashboard:** Displays grades, upcoming assignments, and important notifications.
+- **Attendance tracking:** Students and parents can monitor attendance records and request makeup classes.
+- **Discussion forum:** A space where students can interact with teachers and peers for academic collaboration.
+- **Teacher feedback and class resources:** Teachers can upload lesson plans, syllabi, and study materials for students to access.
+
+### Project Scope:
+- **Aim:** To develop a **user-friendly, web-based** school management system for Sarina Highschool, improving academic transparency, communication, and organization.
+- **Main Objectives:**
+  1. Implement a secure **login system** for students, parents, and teachers.
+  2. Develop a **dashboard** for students and parents to track grades, attendance, and assignments.
+  3. Enable a **messaging system** for parents and teachers.
+  4. Create an **event and school calendar** to manage schedules.
+  5. Provide a **secure, compliant system** to protect student data and maintain privacy standards.
+  6. Integrate a **forum for academic discussions** between students and teachers.
+  7. Implement **attendance tracking features** for students and staff.
+  8. Develop a **resource-sharing system** for teachers to upload class materials.
+
+### Application Description:
+The Sarina Highschool Interactive System will serve as a **centralized online platform** accessible via web browsers and mobile devices. It will integrate **modern web technologies** to ensure scalability, security, and usability. The system will follow **Albanian education policies and privacy standards** to protect sensitive student data.
+
+---
+
+## Technology Stack
+The system will be developed using the following technologies:
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Security Measures:** Data encryption, secure authentication, access control
+
+---
+
+## Roles and Tasks Distribution
+
+### Team Leader:
+- **Kristjan Bushpepa:** Project coordination, Full Stack Development (Frontend & Backend), ensuring a user-friendly experience and robust backend functionality, repository management, team communication, and frontend support.
+
+### Main Roles and Tasks:
+1. **Ergita Hoxha** - Full Stack Development (Frontend & Backend),UI/UX design
+2. **Armand Cera** - Backend Development, Database Management.
+3. **Helga Mali** - Full Stack Development (Frontend & Backend),, Database Management, Testing, Documentation, and System Security, ensuring compliance with **education and data privacy standards**.
+
+
+
+## Additional Notes
+- The system will follow **agile development methodologies** for iterative improvements.
+- **Security measures** such as **data encryption and access control** will be implemented to ensure student privacy.
+
+---
+
+## GitHub Repository
+https://github.com/kristjanbushpepa/Software
