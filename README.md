@@ -82,4 +82,107 @@ Submission Deadline: 15.03.2025, 23:59 hours.
 ## GitHub Repository
 https://github.com/kristjanbushpepa/SE_Project_Sarina
 
+---
+# Phase II: User Requirements and Application Specifications
+
+**Submission Deadline:** 26.03.2025, 23:59
+
+## 1. Chosen Development Model:
+### Agile
+Agile was selected due to its flexibility and iterative development approach. Given that user needs may evolve throughout the development cycle, Agile allows for continuous feedback, frequent testing, and easy adaptation. This is ideal for a school-based system where different stakeholders (students, parents, staff) may suggest improvements mid-project.
+
+## 2. User Requirements:
+### a. Stakeholders:
+- **Students** - Use the platform to check schedules, assignments, and grades.
+- **Parents** - Monitor academic progress and communicate with teachers.
+- **Teachers** - Upload grades, manage resources, and communicate with students/parents.
+- **School Administrators** - Oversee system usage, manage content, and configure policies.
+- **Developers** - Build and maintain the system.
+
+### b. User Stories:
+- **Student**:  
+  *“As a student, I want to view my grades in a dashboard so that I can track my academic performance.”*
+
+- **Parent**:  
+  *“As a parent, I want to schedule meetings with teachers through the platform so that I can stay informed about my child’s progress.”*
+
+- **Teacher**:  
+  *“As a teacher, I want to post assignments and study resources so that students can access them easily.”*
+
+- **Admin**:  
+  *“As an admin, I want to manage all user roles and access so that the platform remains secure and functional.”*
+
+## 3. Functional Requirements:
+### a. Brief Description:
+The system should allow users to log in securely. Students and parents can view academic data (grades, attendance, assignments). Teachers can post assignments and manage grades. The system should support event notifications and school calendar integration. A messaging system for secure communication. Admins can manage users and permissions.
+
+### b. Acceptance Criteria:
+- **Login System**
+  - Users can log in with valid credentials.
+  - Incorrect credentials are rejected.
+  - Session expires after inactivity.
+  
+- **Grade Dashboard**
+  - Students can see subjects and grades.
+  - Graph displays grade progress over time.
+  - Parents have view-only access.
+
+- **Messaging System**
+  - Users can send/receive messages.
+  - Notification is sent on new messages.
+  - Messages are stored securely.
+
+## 4. Non-Functional Requirements:
+### a. Brief Description:
+- **Performance:** The system should load within 2 seconds on average.
+- **Usability:** Interfaces should be easy to navigate for non-tech-savvy users.
+- **Scalability:** Should handle increasing number of users without performance drop.
+- **Security:** All data must be encrypted and follow data privacy laws.
+
+### b. Acceptance Criteria:
+- **Speed:** Pages load in under 3 seconds 95% of the time.
+- **Ease of Use:** At least 70% of test users can complete key tasks without help.
+- **Security:** All passwords hashed, sensitive data encrypted; access control in place.
+- **Uptime:** System available 99% of the time during school hours.
+
+## 5. Application Specifications:
+### a. Architecture:
+Provide an overview of the chosen architecture:
+- Include high-level diagrams or descriptions of system components and their interactions.
+
+### b. Database Model:
+- **Tables:**
+  - **Users:** id, name, role, email, password
+  - **Grades:** id, student_id, subject, score
+  - **Assignments:** id, title, description, deadline, student_id
+  - **Messages:** sender_id, receiver_id, content, timestamp
+  - **Attendance:** student_id, date, status
+  - **Events:** title, description, date
+
+- **Relationships:**
+  - One-to-many between Users and Grades, Assignments.
+  - Many-to-many between Users (via Messages).
+
+### c. Technologies Used:
+- **Frontend:** HTML, CSS, JavaScript – For responsive and accessible interfaces.
+- **Backend:** PHP – Well-supported and integrates with MySQL.
+- **Database:** MySQL – Reliable relational database suited for structured school data.
+- **Security:** HTTPS, hashed passwords, encrypted communications, role-based access control.
+
+### d. User Interface Design:
+- Login Page
+- Student Dashboard
+- Parent Dashboard
+- Teacher Dashboard
+- Messaging Interface
+- Admin Panel
+
+### e. Security Measures:
+- **Authentication:** Role-based login system.
+- **Encryption:** All sensitive data encrypted using standard algorithms.
+- **Authorization:** Access control per user role.
+- **HTTPS:** All data transmitted over secure channels.
+- **Data Compliance:** Follows Albania’s educational data privacy regulations.
+
+
 
