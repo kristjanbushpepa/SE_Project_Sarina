@@ -153,6 +153,7 @@ Provide an overview of the chosen architecture:
 ### b. Database Model:
 - **Tables:**
   - **Users:** id, name, role, email, password
+  - **Admin** id, name, role, email, password
   - **Grades:** id, student_id, subject, score
   - **Assignments:** id, title, description, deadline, student_id
   - **Messages:** sender_id, receiver_id, content, timestamp
