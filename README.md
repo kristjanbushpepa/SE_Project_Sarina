@@ -8,7 +8,7 @@
 - **Email:** kbushpepa22@epoka.edu.al
 
 ### Team Members:
-1. Ergita Hoxha - GitHub: ergitahoxha -  Email: ehoxha22@epoka.edu.al
+1. Ergita Hoxha - GitHub: ergitahoxha -  Email: erhoxha22@epoka.edu.al
 2. Armand Cera - GitHub: armandcera - Email: acera22@epoka.edu.al
 3. Helga Mali - GitHub: helgamali - Email: hmali22@epoka.edu.al
 
