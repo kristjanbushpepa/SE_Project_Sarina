@@ -23,7 +23,7 @@
 Sarina Highschool in Tirana, Albania, faces challenges in communication between parents, students, and school staff. Parents struggle to monitor their children's academic performance, students lack a structured way to access schedules and assignments, and teachers require a more efficient method for organizing parent meetings and school announcements. The absence of a centralized, digital platform leads to miscommunication, missed deadlines, and inefficiencies in school management.
 
 ### Solution Proposed:
-The Sarina Highschool Interactive System will be a **comprehensive school management web platform** that enables **real-time communication and data sharing** between students, parents, and school staff. The system will include:
+Sarina Highschool Interactive System will be a **comprehensive school management web platform** that enables **real-time communication and data sharing** between students, parents, and school staff. The system will include:
 - **Real-time grade tracking:** Parents and students can monitor academic progress with progress graphs and breakdowns.
 - **Timetables and class schedules:** Students can view class schedules, exams, and school activities.
 - **School announcements and event notifications:** Ensuring that parents and students stay informed about school events, holidays, and policy changes.
