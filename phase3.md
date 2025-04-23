@@ -40,27 +40,32 @@ All layers communicate through API calls or server requests, with role-based acc
 ### Class Diagram
 ![Class Diagram](images/class-diagram.png)
 
-Log-in Sequence Diagram
+
 ### Sequence Diagrams
-- **Log-in Sequence Diagram**:
+**Log-in Sequence Diagram**:
+
 ![Log-in Sequence Diagram](images/login-diagram.png)
   
-- **Teacher Sequence Diagram**:
+**Teacher Sequence Diagram**:
+
 ![Teacher Sequence Diagram](images/teacherseq.png)
   
-- **Message Sequence Diagram**:
+**Message Sequence Diagram**:
+
 ![Message Sequence Diagram](images/userseq.png)
 
 ### Use Case Diagram
 
 ![Use Case Diagram](images/usecase.png)
 
-
 ### Activity Diagrams
-- **Log-in Activity Diagram**:
+
+**Log-in Activity Diagram**:
+
 ![Log in Activity](images/login-activity.png)
   
-- **Assignment Activity Diagram**:
+**Assignment Activity Diagram**:
+  
 ![Assigment Activity](images/assigment.png)
 
 ---
