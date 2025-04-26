@@ -76,8 +76,5 @@ The system will be developed using the following technologies:
 - The system will follow **agile development methodologies** for iterative improvements.
 - **Security measures** such as **data encryption and access control** will be implemented to ensure student privacy.
 
-# Deadline
-Submission Deadline: 15.03.2025, 23:59 hours.
-
 ## GitHub Repository
 https://github.com/kristjanbushpepa/SE_Project_Sarina
