@@ -36,7 +36,7 @@ All layers communicate through API calls or server requests, with role-based acc
 
 ### Component Diagram
 
-![Component Diagram](images/Component Diagram.png)
+![Component Diagram](images/Component-Diagram.png)
 
 ### Class Diagram
 
